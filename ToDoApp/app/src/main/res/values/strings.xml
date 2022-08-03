@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Список дел</string>
+    <string name="important">Важно</string>
+    <string name="enterText">Введите текст...</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Отмена</string>
+    <string name="newDeal">Новое дело</string>
+    <string name="whatToDo">Что нужно сделать?</string>
+    <string name="add">Добавить</string>
+    <string name="notify">Поставить уведомление</string>
+    <string name="deadline">Дедлайн</string>
+    <string name="back">Назад</string>
+</resources>
